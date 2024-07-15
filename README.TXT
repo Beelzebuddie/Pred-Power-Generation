@@ -7,3 +7,5 @@ https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-196
 
 The Renewable Energy World Wide dataset is a comprehensive collection of global renewable energy data from 1965 to 2022. 
 The dataset includes information on hydropower, wind, solar, biofuel, and geothermal energy production from around the world.
+
+The idea here is to predict the renewable energy globally. 
